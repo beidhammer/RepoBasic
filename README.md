@@ -1,5 +1,5 @@
 # RepoBasic
 <p>Fundimental codes</p>
-![bilde](https://github.com/beidhammer/RepoBasic/assets/145228804/db3749dd-b28f-4eb7-b99b-8f2f4e02a550)
+![bilde](https://github.com/beidhammer/RepoBasic/assets/145228804/cc5eb23e-3162-44f2-951b-8049ba766260)
 <p>This is my repo during my studies.</p>
 
